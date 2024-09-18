@@ -2,7 +2,8 @@
 
 `CERTIFICATION PROJECT`
 
-This is one of the required projects to earn the certification.
+- This is one of the required projects to earn the certification.
+- For this project, you will build a product landing page to market a product of your choice.
 
 ## Objective
 Build an app that is functionally similar to https://product-landing-page.freecodecamp.rocks
